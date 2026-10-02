@@ -1,0 +1,1 @@
+## Hyprsp4ce documentation
