@@ -9,3 +9,5 @@ PS1='[\u@\h \W]\$'
 # Aliases
 alias ls="eza --icons=always --color=always"
 alias ll="ls -al"
+alias errscan="~/.config/hyprsp4ce/scripts/utility/errorscan.sh"
+alias mirrors-update="~/.config/hyprsp4ce/scripts/archlinux/mirrorlist.sh"
